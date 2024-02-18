@@ -1,2 +1,2 @@
-# SPSPro.github.io
+# spsproro.github.io
 All things public for SPS Pro
